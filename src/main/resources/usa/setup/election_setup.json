@@ -1,0 +1,13 @@
+{
+"dbsettings":{
+  "db_user":"aes",
+  "db_password":"aes",
+  "docker_image":"docker.esbu.smartmatic.net/node-oracle-db:1.0.2"
+  },
+"pollkwalker": {
+      "query":"UPDATE ELECTION_1.POLLING_PLACE_TOKEN p SET p.GENERATED_COUNT='1'"
+  },
+"station": {
+      "query":"UPDATE ELECTION_1.STATION p SET p.MEDIA_COPIES='1' WHERE p.NAME <> 'CCOS_BATCHES_PROCESSOR'"
+  }
+}

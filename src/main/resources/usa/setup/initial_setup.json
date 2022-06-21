@@ -1,0 +1,54 @@
+{
+  "users": {
+    "defaultAdmin": {
+      "username": "admin",
+      "defaultPassword": "5737b3f",
+      "password": "Abcd1234."
+    },
+    
+    "admin": {
+      "username": "tstark",
+      "defaultPassword": "Abcd1234.",
+      "password": "Abcd1234.",
+      "name": "Tony",
+      "lastname": "Stark"
+    }
+  },
+
+  "jurisdiction": {
+    "name": "Test Jurisdiction",
+    "displayName": "Test Jurisdiction - California",
+    "state": "California",
+    "city": "Test City",
+    "logo": "images/jurisdiction/logo.png",
+    "votingTypesEnabled": {
+      "Election Day Centers": false,
+      "early Voting Facility": false,
+      "voting Center Facility": true,
+      "absentee Voting Facility": false
+    },
+    "supportedVotingDevices": {
+      "BMD": false,
+      "CCOS": false,
+      "EVM": false,
+      "EBM": false,
+      "PCOS": true
+      }
+  },
+  "jurisdictionRules": {
+  "Ballot Rotation:": true,
+  "Non-Partisan Offices:": true,
+  "Provisional/Challenge Vote:": true,
+  "Partisan Offices:": true,
+  "Closed Primary:": true,
+  "Write-In:":true
+  },
+
+  "database": {
+    "password": "Abcd1234"
+  },
+
+  "security": {
+    "masterKeyPass": "Abcd1234"
+  }
+}

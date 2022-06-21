@@ -1,0 +1,295 @@
+DS_DISTRICT_NAME,DS_DISTRICT_CUSTOM_CODE,DS_DISTRICT_DESCRIPTION,DS_DISTRICT_TYPE_CUSTOM_CODE,DS_DISTRICT_TYPE_NAME,DS_DISTRICT_TYPE_CONTEST_TYPE,DS_WRITE_IN,DS_NON_PARTISAN,DS_ROTATED,DS_STRAIGHT_PARTY,DS_JURISDICTION_WIDE,DS_HAS_VICEPRESIDENT,DS_PRECINCT_CUSTOM_CODE,DS_REGION_CUSTOM_CODE,DS_VOTE_FOR
+United States President,DIS_01,United States President DEMO,DISTRICT_01,United States President,Standard,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,,,1
+United States Senator,DIS_02,United States Senator DEMO,DISTRICT_02,United States Senator,Standard,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,,,1
+United States House of Representatives District 11*,DIS_03,United States House of Representatives District 11*,DISTRICT_03,United States House of Representatives District 11*,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Governor,DIS_04,Governor,DISTRICT_04,Governor,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Lieutenant Governor,DIS_05,Lieutenant Governor,DISTRICT_05,Lieutenant Governor,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ALLA,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,BEAVV,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_002,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_001,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_002,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_003,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_004,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_004,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_005,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CENTER,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_001,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_002,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_003,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_001,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CASS,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,PINE,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FOLSO,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WHITE,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_001,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_002,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_001,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_002,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_003,,1
+State Senator 14,DIS_06,State Senator 14,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_004,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_005,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_003,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_003,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WOOD,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EUHA,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_003,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_004,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ROAD,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A11_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A11_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TAYLOR,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_001,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_002,,1
+State Senator 52,DIS_07,State Senator 52,DISTRICT_06,State Senator,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_003,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_001,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_002,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,BEAVV,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_004,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CENTER,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_002,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CASS,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,PINE,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FOLSO,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WHITE,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_001,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_002,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_001,,1
+State House of Representatives 14,DIS_08,State House of Representatives 14,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ALLA,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_003,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_005,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_003,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_004,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_005,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CENTER,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A6_003,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_003,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WOOD,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EUHA,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ROAD,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A11_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A11_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_001,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_002,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_003,,1
+State House of Representatives 15,DIS_09,State House of Representatives 15,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A16_004,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EUHA,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_003,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_004,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TAYLOR,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_001,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_002,,1
+State House of Representatives 16,DIS_10,State House of Representatives 16,DISTRICT_08,State House of Representatives,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_003,,1
+Attorney General,DIS_11,Attorney General,DISTRICT_11,Attorney General,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Secretary of State,DIS_12,Secretary of State,DISTRICT_12,Secretary of State,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+State School Superintendent,DIS_13,State School Superintendent,DISTRICT_13,State School Superintendent,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Commissioner of Agriculture,DIS_14,Commissioner of Agriculture,DISTRICT_14,Commissioner of Agriculture,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Commissioner of Insurance,DIS_15,Commissioner of Insurance,DISTRICT_15,Commissioner of Insurance,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Commissioner of Labor,DIS_16,Commissioner of Labor,DISTRICT_16,Commissioner of Labor,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Public Service Commission District 02,DIS_17,Public Service Commission District 02,DISTRICT_17,Public Service Commission District 02**,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Carol Hunstein,DIS_18,To Succeed Justice Carol Hunstein,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Robert Benham,DIS_19,To Succeed Justice Robert Benham,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Harris Hines,DIS_20,To Succeed Justice Harris Hines,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Harold Melton,DIS_21,To Succeed Justice Harold Melton,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice David Nahmias,DIS_22,To Succeed Justice David Nahmias,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Michael P. Boggs,DIS_23,To Succeed Justice Michael P. Boggs,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Keith Blackwell,DIS_24,To Succeed Justice Keith Blackwell,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Nels Peterson,DIS_25,To Succeed Justice Nels Peterson,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Justice Britt Grant,DIS_26,To Succeed Justice Britt Grant,DISTRICT_18,Justice of the Supreme Court,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Gary Andrews,DIS_27,To Succeed Judge Gary Andrews,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Sara Doyle,DIS_28,To Succeed Judge Sara Doyle,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge John Ellington,DIS_29,To Succeed Judge John Ellington,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Yvette Miller,DIS_30,To Succeed Judge Yvette Miller,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Anne Barnes,DIS_31,To Succeed Judge Anne Barnes,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Stephen Dillard,DIS_32,To Succeed Judge Stephen Dillard,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Tilman E. Self III ,DIS_33,To Succeed Judge Tilman E. Self III ,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge William M. Ray II,DIS_34,To Succeed Judge William M. Ray II,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Amanda Mercier,DIS_35,To Succeed Judge Amanda Mercier,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Chris McFadden,DIS_36,To Succeed Judge Chris McFadden,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Charlie Bethel,DIS_37,To Succeed Judge Charlie Bethel,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Carla W. McMillian,DIS_38,To Succeed Judge Carla W. McMillian,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Elizabeth Branch,DIS_39,To Succeed Judge Elizabeth Branch,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Brian Rickman,DIS_40,To Succeed Judge Brian Rickman,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+To Succeed Judge Clyde Reese,DIS_41,To Succeed Judge Clyde Reese,DISTRICT_27,Judge for Court of Appeals,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+Judge of the Superior Court District 07 Cherokee Circuit,DIS_42,Judge of the Superior Court District 07 Cherokee Circuit,DISTRICT_42,Judge of the Superior Court District 07 Cherokee Circuit***,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+Sole County Commissioner,DIS_43,Sole County Commissioner,DISTRICT_43,Sole County Commissioner,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Chief Magistrate,DIS_44,Chief Magistrate,DISTRICT_44,Chief Magistrate,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Clerk of Superior Court,DIS_45,Clerk of Superior Court,DISTRICT_45,Clerk of Superior Court,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Coroner,DIS_46,Coroner,DISTRICT_46,Coroner,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+County Surveyor,DIS_47,County Surveyor,DISTRICT_47,County Surveyor,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Probate Judge,DIS_48,Probate Judge,DISTRICT_48,Probate Judge,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+Sheriff,DIS_49,Sheriff,DISTRICT_49,Sheriff,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Tax Commissioner,DIS_50,Tax Commissioner,DISTRICT_50,Tax Commissioner,Standard,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,CENTER,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A6_002,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A6_003,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,PINE,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,WHITE,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A15_001,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A15_002,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+Bartow County Board of Education 1,DIS_51,Bartow County Board of Education 1,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A16_001,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ALLA,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,CENTER,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A6_001,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,EMER,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A7_001,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A7_002,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A7_003,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ROAD,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A11_001,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TAYLOR,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A14_001,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+Bartow County Board of Education 2,DIS_52,Bartow County Board of Education 2,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A16_002,,1
+Bartow County Board of Education 3,DIS_53,Bartow County Board of Education 3,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,BEAVV,,1
+Bartow County Board of Education 3,DIS_53,Bartow County Board of Education 3,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,WOOD,,1
+Bartow County Board of Education 3,DIS_53,Bartow County Board of Education 3,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,CASS,,1
+Bartow County Board of Education 3,DIS_53,Bartow County Board of Education 3,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+Bartow County Board of Education 3,DIS_53,Bartow County Board of Education 3,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A16_003,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,EUHA,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A8_001,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A8_002,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A8_003,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A8_004,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ROAD,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A11_002,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TAYLOR,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A14_002,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A14_003,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ZENA,,1
+Bartow County Board of Education 4,DIS_54,Bartow County Board of Education 4,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A16_004,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,ADAIR,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A1_001,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A1_002,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A1_003,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FOLSO,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,KING,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A10_001,,1
+Bartow County Board of Education 5,DIS_55,Bartow County Board of Education 5,DISTRICT_51,Bartow County Board of Education,Standard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,A10_002,,1
+Coosa River Soil and Water Conservation District Supervisor ,DIS_56,Coosa River Soil and Water Conservation District Supervisor ,DISTRICT_56,Coosa River Soil and Water Conservation District Supervisor ,Standard,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,,,1
+Adairsville City Mayor,DIS_57,Adairsville City Mayor,DISTRICT_57,Adairsville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,CityofAdairsville,1
+Adairsville City Mayor,DIS_57,Adairsville City Mayor,DISTRICT_57,Adairsville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,CityofAdairsville,1
+Adairsville City Council-P1,DIS_58,Adairsville City Council-P1,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,CityofAdairsville,1
+Adairsville City Council-P1,DIS_58,Adairsville City Council-P1,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,CityofAdairsville,1
+Adairsville City Council-P2,DIS_59,Adairsville City Council-P2,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,CityofAdairsville,1
+Adairsville City Council-P2,DIS_59,Adairsville City Council-P2,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,CityofAdairsville,1
+Adairsville City Council-P3,DIS_60,Adairsville City Council-P3,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,CityofAdairsville,1
+Adairsville City Council-P3,DIS_60,Adairsville City Council-P3,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,CityofAdairsville,1
+Adairsville City Council-P4,DIS_61,Adairsville City Council-P4,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,ADAIR,CityofAdairsville,1
+Adairsville City Council-P4,DIS_61,Adairsville City Council-P4,DISTRICT_58,Adairsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A1_003,CityofAdairsville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_001,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_002,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_003,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_004,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_005,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_001,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_002,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_003,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_004,CityofCartersville,1
+Cartersville City Mayor,DIS_62,Cartersville City Mayor,DISTRICT_62,Cartersville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_005,CityofCartersville,1
+Cartersville City Council 01,DIS_63,Cartersville City Council 01,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,Ward01,1
+Cartersville City Council 01,DIS_63,Cartersville City Council 01,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_001,Ward01,1
+Cartersville City Council 02,DIS_64,Cartersville City Council 02,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,Ward02,1
+Cartersville City Council 02,DIS_64,Cartersville City Council 02,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_002,Ward02,1
+Cartersville City Council 02,DIS_64,Cartersville City Council 02,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_005,Ward02,1
+Cartersville City Council 03,DIS_65,Cartersville City Council 03,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,War03,1
+Cartersville City Council 03,DIS_65,Cartersville City Council 03,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_001,War03,1
+Cartersville City Council 04,DIS_66,Cartersville City Council 04,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,Ward04,1
+Cartersville City Council 04,DIS_66,Cartersville City Council 04,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_002,Ward04,1
+Cartersville City Council 04,DIS_66,Cartersville City Council 04,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_004,Ward04,1
+Cartersville City Council 05,DIS_67,Cartersville City Council 05,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CAWEST,Ward05,1
+Cartersville City Council 05,DIS_67,Cartersville City Council 05,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_003,Ward05,1
+Cartersville City Council 05,DIS_67,Cartersville City Council 05,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A4_005,Ward05,1
+Cartersville City Council 06,DIS_68,Cartersville City Council 06,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,CARET,Ward06,1
+Cartersville City Council 06,DIS_68,Cartersville City Council 06,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_003,Ward06,1
+Cartersville City Council 06,DIS_68,Cartersville City Council 06,DISTRICT_63,Cartersville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A3_004,Ward06,1
+Cartersville City School Board 01,DIS_69,Cartersville City School Board 01,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CARET,Ward01,1
+Cartersville City School Board 01,DIS_69,Cartersville City School Board 01,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A3_001,Ward01,1
+Cartersville City School Board 02,DIS_70,Cartersville City School Board 02,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CARET,Ward02,1
+Cartersville City School Board 02,DIS_70,Cartersville City School Board 02,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A3_002,Ward02,1
+Cartersville City School Board 02,DIS_70,Cartersville City School Board 02,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A3_005,Ward02,1
+Cartersville City School Board 03,DIS_71,Cartersville City School Board 03,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CAWEST,War03,1
+Cartersville City School Board 03,DIS_71,Cartersville City School Board 03,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A4_001,War03,1
+Cartersville City School Board 04,DIS_72,Cartersville City School Board 04,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CAWEST,Ward04,1
+Cartersville City School Board 04,DIS_72,Cartersville City School Board 04,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A4_002,Ward04,1
+Cartersville City School Board 04,DIS_72,Cartersville City School Board 04,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A4_004,Ward04,1
+Cartersville City School Board 05,DIS_73,Cartersville City School Board 05,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CAWEST,Ward05,1
+Cartersville City School Board 05,DIS_73,Cartersville City School Board 05,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A4_003,Ward05,1
+Cartersville City School Board 05,DIS_73,Cartersville City School Board 05,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A4_005,Ward05,1
+Cartersville City School Board 06,DIS_74,Cartersville City School Board 06,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,CARET,Ward06,1
+Cartersville City School Board 06,DIS_74,Cartersville City School Board 06,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A3_003,Ward06,1
+Cartersville City School Board 06,DIS_74,Cartersville City School Board 06,DISTRICT_69,Cartersville City School Board,Standard,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,A3_004,Ward06,1
+Emerson City Mayor,DIS_75,Emerson City Mayor,DISTRICT_75,Emerson City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,CityofEmerson,1
+Emerson City Mayor,DIS_75,Emerson City Mayor,DISTRICT_75,Emerson City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,CityofEmerson,1
+Emerson City Council-P1,DIS_76,Emerson City Council-P1,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,CityofEmerson,1
+Emerson City Council-P1,DIS_76,Emerson City Council-P1,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,CityofEmerson,1
+Emerson City Council-P2,DIS_77,Emerson City Council-P2,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,CityofEmerson,1
+Emerson City Council-P2,DIS_77,Emerson City Council-P2,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,CityofEmerson,1
+Emerson City Council-P3,DIS_78,Emerson City Council-P3,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,CityofEmerson,1
+Emerson City Council-P3,DIS_78,Emerson City Council-P3,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,CityofEmerson,1
+Emerson City Council-P4,DIS_79,Emerson City Council-P4,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EMER,CityofEmerson,1
+Emerson City Council-P4,DIS_79,Emerson City Council-P4,DISTRICT_76,Emerson City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A7_002,CityofEmerson,1
+Euharlee City Mayor,DIS_80,Euharlee City Mayor,DISTRICT_80,Euharlee City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EUHA,CityofEuharlee,1
+Euharlee City Mayor,DIS_80,Euharlee City Mayor,DISTRICT_80,Euharlee City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_001,CityofEuharlee,1
+Euharlee City Mayor,DIS_80,Euharlee City Mayor,DISTRICT_80,Euharlee City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_004,CityofEuharlee,1
+Euharlee City Council,DIS_81,Euharlee City Council,DISTRICT_81,Euharlee City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,EUHA,CityofEuharlee,1
+Euharlee City Council,DIS_81,Euharlee City Council,DISTRICT_81,Euharlee City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_001,CityofEuharlee,1
+Euharlee City Council,DIS_81,Euharlee City Council,DISTRICT_81,Euharlee City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A8_004,CityofEuharlee,1
+Kingston City Mayor,DIS_82,Kingston City Mayor,DISTRICT_82,Kingston City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,CityofKingston,1
+Kingston City Mayor,DIS_82,Kingston City Mayor,DISTRICT_82,Kingston City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,CityofKingston,1
+Kingston City Council-P1,DIS_83,Kingston City Council-P1,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,CityofKingston,1
+Kingston City Council-P1,DIS_83,Kingston City Council-P1,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,CityofKingston,1
+Kingston City Council-P2,DIS_84,Kingston City Council-P2,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,CityofKingston,1
+Kingston City Council-P2,DIS_84,Kingston City Council-P2,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,CityofKingston,1
+Kingston City Council-P3,DIS_85,Kingston City Council-P3,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,CityofKingston,1
+Kingston City Council-P3,DIS_85,Kingston City Council-P3,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,CityofKingston,1
+Kingston City Council-P4,DIS_86,Kingston City Council-P4,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,KING,CityofKingston,1
+Kingston City Council-P4,DIS_86,Kingston City Council-P4,DISTRICT_83,Kingston City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A10_002,CityofKingston,1
+Taylorsville City Mayor,DIS_87,Taylorsville City Mayor,DISTRICT_87,Taylorsville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TAYLOR,CityofTaylorsville,1
+Taylorsville City Mayor,DIS_87,Taylorsville City Mayor,DISTRICT_87,Taylorsville City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_002,CityofTaylorsville,1
+Taylorsville City Council,DIS_88,Taylorsville City Council,DISTRICT_88,Taylorsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TAYLOR,CityofTaylorsville,1
+Taylorsville City Council,DIS_88,Taylorsville City Council,DISTRICT_88,Taylorsville City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A14_002,CityofTaylorsville,1
+White City Mayor,DIS_89,White City Mayor,DISTRICT_89,White City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WHITE,CityofWhite,1
+White City Mayor,DIS_89,White City Mayor,DISTRICT_89,White City Mayor,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_002,CityofWhite,1
+White City Council,DIS_90,White City Council,DISTRICT_90,White City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,WHITE,CityofWhite,1
+White City Council,DIS_90,White City Council,DISTRICT_90,White City Council,Standard,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,A15_002,CityofWhite,1

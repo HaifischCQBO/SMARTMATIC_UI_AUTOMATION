@@ -1,0 +1,15 @@
+PS_CATEGORY_CUSTOM_CODE|PS_CATEGORY_NAME|PS_REGION_CUSTOM_CODE|PS_REGION_NAME|PS_REGION_TIMEZONE|PS_REGION_PARENT
+COUNTY|County|Bartow|Bartow|America/Chicago|
+CITY|City |CityofAdairsville|City of Adairsville|America/Chicago|Bartow
+CITY|City |CityofEmerson|City of Emerson|America/Chicago|Bartow
+CITY|City |CityofEuharlee|City of Euharlee|America/Chicago|Bartow
+CITY|City |CityofKingston|City of Kingston|America/Chicago|Bartow
+CITY|City |CityofTaylorsville|City of Taylorsville|America/Chicago|Bartow
+CITY|City |CityofWhite|City of White|America/Chicago|Bartow
+CITY|City |CityofCartersville|City of Cartersville|America/Chicago|Bartow
+WARD|Ward |Ward01|Ward 01|America/Chicago|CityofCartersville
+WARD|Ward |Ward02|Ward 02|America/Chicago|CityofCartersville
+WARD|Ward |War03|Ward 03|America/Chicago|CityofCartersville
+WARD|Ward |Ward04|Ward 04|America/Chicago|CityofCartersville
+WARD|Ward |Ward05|Ward 05|America/Chicago|CityofCartersville
+WARD|Ward |Ward06|Ward 06|America/Chicago|CityofCartersville

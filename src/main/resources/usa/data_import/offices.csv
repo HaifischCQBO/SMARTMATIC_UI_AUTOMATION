@@ -1,0 +1,4 @@
+OF_OFFICE_CUSTOM_CODE,OF_OFFICE_NAME,OF_OFFICE_DESCRIPTION,OF_OFFICE_TYPE,OF_PARTISAN,DS_DISTRICT_CUSTOM_CODE,OF_ROTATED,OF_OFFICE_FILLING_DATE,OF_START_DATE,OF_END_DATE,OF_TERM_LENGTH,OF_TERM_LIMIT,OF_TERM_TYPE,OF_CONTACT_PERSON_NAME,OF_CONTACT_PERSON_LASTNAME,OF_CONTACT_PERSON_EMAIL,OF_OFFICEHOLDER_NAME,OF_OFFICEHOLDER_LASTNAME
+Code5,Office data import,This office was upload from data import file,Retention,TRUE,DIS_06,TRUE,2022-06-30,2022-06-30,2023-12-01,1,2,full-term,TEST,CONTACT1,JNJ@gmail.com,Jose,Cueto
+Code55,Office data import23,This office was upload from data import file2,Candidate Contest,FALSE,DIS_08,FALSE,2022-06-30,2022-06-30,2023-02-02,1,TEST1,unexpired-term,Test contact,Contact2,testemail@gmail.com,Robert,Lu
+Code6,Office data import24,,Retention,FALSE,DIS_07,FALSE,2022-06-30,2022-06-30,2023-02-02,1,TEST1,unexpired-term,Test contact,Contact2,testemail@gmail.com,Carlos,Lu

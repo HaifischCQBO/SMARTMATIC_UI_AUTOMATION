@@ -1,0 +1,13 @@
+{
+    "electionName": "General Event Cypress",
+    "eventType" : "General",
+    "PollingPlaceTypes":{
+        "Election day centers":true   
+    },
+    "SupportedVotingDevices":{
+        "EVM":true
+    },
+    "summaryExpectedCandidateValues": {
+        "Candidate" : "4"
+    }
+}

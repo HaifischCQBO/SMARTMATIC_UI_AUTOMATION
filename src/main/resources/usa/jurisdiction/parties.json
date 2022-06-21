@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Republican",
+    "abbreviation": "REP",
+    "color": "#F01414",
+    "logo": "images/parties/republican.png"
+  },
+  {
+    "name": "Democratic",
+    "abbreviation": "DEM",
+    "color": "#1511E8",
+    "logo": "images/parties/democratic.png"
+  },
+  {
+    "name": "Green",
+    "abbreviation": "GRN",
+    "color": "#25A914",
+    "logo": "images/parties/green.png"
+  },
+  {
+    "name": "Libertarian",
+    "abbreviation": "LIB",
+    "color": "#E0D024",
+    "logo": "images/parties/libertarian.png"
+  }
+]

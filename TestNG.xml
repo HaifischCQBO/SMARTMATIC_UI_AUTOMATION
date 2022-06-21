@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Local Regression">
+    <!--Credential Configuration -->
+    <!--DefaultAdmin Configuration -->
+    <parameter name="DefaultAdmin_username" value="admin"/>
+    <parameter name="DefaultAdmin_defaultPassword" value="5737b3f"/>
+    <parameter name="DefaultAdmin_password" value="Abcdef1234567."/>
+    <!--Admin Configuration -->
+    <parameter name="Admin_username" value="tstark"/>
+    <parameter name="Admin_defaultPassword" value="Abcdef1234567."/>
+    <parameter name="Admin_password" value="Abcdef1234567.."/>
+    <parameter name="Admin_name" value="Tony"/>
+    <parameter name="Admin_lastname" value="Stark"/>
+    <!--DataBase -->
+    <parameter name="database_password" value="Abcd1234_Abcd1234"/>
+    <!--Jurisdiction -->
+    <parameter name="jurisdiction_name" value="Test Jurisdiction"/>
+    <parameter name="jurisdiction_displayName" value="Test Jurisdiction - California"/>
+    <parameter name="jurisdiction_state" value="California"/>
+    <parameter name="jurisdiction_city" value="Test City"/>
+    <parameter name="jurisdiction_logo" value="src/main/resources/images/jurisdiction/logo.png"/>
+    <!--Voting Types Enabled -->
+    <parameter name="checkbox_Polling Place Election Day" value="true"/>
+    <parameter name="checkbox_Polling Place Early Voting" value="true"/>
+    <parameter name="checkbox_Polling Place Voting Center" value="false"/>
+    <parameter name="checkbox_Polling Place Absentee" value="true"/>
+    <!--Supported Voting Devices -->
+    <parameter name="checkbox_BMD" value="true"/>
+    <parameter name="checkbox_CCOS" value="true"/>
+    <parameter name="checkbox_EBM" value="false"/>
+    <parameter name="checkbox_EVM" value="false"/>
+    <parameter name="checkbox_PCOS" value="true"/>
+    <!--Jurisdiction Rules -->
+    <parameter name="BallotRotation" value="true"/>
+    <parameter name="NonPartisanOffices" value="true"/>
+    <parameter name="ProvisionalChallengeVote" value="true"/>
+    <!--AUTOMATICALLY TRUE IF CLOSED PRIMARY IS ACTIVE  -->
+    <parameter name="PartisanOffices" value="true"/>
+    <parameter name="ClosedPrimary" value="true"/>
+    <parameter name="WriteIn" value="true"/>
+    <parameter name="Openprimarysupport" value="true"/>
+    <!-- Security -->
+    <parameter name="security_masterKeyPass" value="Abcd1234Abcd1234"/>
+
+    <test name="EMP Regresion Testing" allow-return-values="false">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="headless" value="false"/>
+        <parameter name="url" value="https://victor.emp.net"/>
+
+        <classes>
+            <class name="Tests.SMT_EMP_INITIAL_SETUP"/>
+            <class name="Tests.SMT_EMP_DATA_IMPORT"/>
+
+          </classes>
+      </test>
+
+
+
+  </suite>

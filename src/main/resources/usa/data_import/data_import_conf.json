@@ -1,0 +1,10 @@
+{
+    "summaryExpectedValues": {
+        "Electoral Subdivision" : "14",
+        "Precincts" : "53",
+        "Parties" : "4",
+        "Districts" : "90",
+        "Polling Places" : "19",
+        "Station" : "61"
+    }
+}
